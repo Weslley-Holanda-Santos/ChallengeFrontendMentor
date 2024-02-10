@@ -44,7 +44,7 @@
     <th>Nível</th>
   </tr>
   <tr>
-    <td>qr-code-componen</td>
+    <td><a href="weslley-challenge-frontend-mentor-orcin.vercel.app">qr-code-component</a></td>
     <td>⭐</td>
   </tr>
   <tr>
