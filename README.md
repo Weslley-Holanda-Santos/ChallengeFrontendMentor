@@ -48,7 +48,7 @@
     <td>⭐</td>
   </tr>
   <tr>
-    <td>recipe-page</td>
+    <td><a href="https://weslleychallenge-2-frontend-mentor-orcin.vercel.app">recipe-page</a></td>
     <td>⭐</td>
   </tr>
 </table>
