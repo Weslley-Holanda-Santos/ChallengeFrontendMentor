@@ -51,6 +51,10 @@
     <td><a href="https://weslleychallenge-2-frontend-mentor-orcin.vercel.app">recipe-page</a></td>
     <td>⭐</td>
   </tr>
+  <tr>
+    <td><a href="">Social links profile</a></td>
+    <td>⭐</td>
+  </tr>
 </table>
 
 </body>
