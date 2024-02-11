@@ -52,7 +52,7 @@
     <td>⭐</td>
   </tr>
   <tr>
-    <td><a href="">Social links profile</a></td>
+    <td><a href="https://weslleychallenge-3-frontend-mentor-orcin.vercel.app">Social links profile</a></td>
     <td>⭐</td>
   </tr>
 </table>
